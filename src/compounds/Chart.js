@@ -102,7 +102,7 @@ const Chart = () => {
         {/* HEADER */}
         <div className="header">
           <div>
-            ❤️ My Special Person
+            ❤️ Favorite Sister
             <div className="online">online</div>
           </div>
           <div className="time">12:00 AM</div>
